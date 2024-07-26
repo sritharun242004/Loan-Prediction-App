@@ -30,6 +30,12 @@ To run a Streamlit application, follow these steps:
    ```
    pip install streamlit
    ```
+## Installation
+
+To install the required dependencies, ensure you have `pip` installed and then run:
+
+```sh
+pip install -r requirements.txt
 
 2. **Create Your Streamlit App:**
 
