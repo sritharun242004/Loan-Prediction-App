@@ -1,4 +1,5 @@
 **Project Overview**
+![Loan Prediction App](Loan_prediction.jpeg)
 This project is designed to streamline the loan application process and offer users a quick and accurate assessment of their loan eligibility. By allowing users to input details such as income, credit score, and employment history, the application leverages machine learning models, to determine loan eligibility.
 
 In this project, several machine learning algorithms were tested to find the best-performing model:
@@ -21,6 +22,9 @@ Machine Learning Models: Uses advanced models to provide accurate predictions.
 User-Friendly Interface: Developed with Streamlit for an intuitive user experience.
 This application aims to help both prospective borrowers and financial institutions by leveraging machine learning to make data-driven loan decisions.
 
+You can access the deployed application using the following link:
+
+[Loan Approval Predicting App](https://loan-prediction-app-ocwdo9mchdg4k9v45dw8bz.streamlit.app/)
 To run a Streamlit application, follow these steps:
 
 1. **Install Streamlit:**
