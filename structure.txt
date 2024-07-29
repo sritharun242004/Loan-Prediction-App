@@ -13,4 +13,4 @@ Loan-Approval-Prediction/
 ├── README.md                 # Overview and setup instructions for the project
 ├── demo1.jpg                 # Demo image 1 for showcasing execution
 ├── demo2.jpg                 # Demo image 2 for showcasing execution
-└── structure.txt             # Documentation 
+└── structure.txt             # Documentation
