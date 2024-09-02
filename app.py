@@ -35,3 +35,4 @@ if st.button("Predict"):
         st.markdown('Loan Is Approved')
     else:
         st.markdown('Loan Is Rejected')
+        
