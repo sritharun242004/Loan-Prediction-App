@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 import pickle as pk
 
-model_dt = pk.load(open('decision_tree_model.pkl','rb'))
-scaler = pk.load(open('scaler.pkl','rb'))
+model_dt = pk.load(open('Loan-Prediction-App/models/decision_tree_model.pkl','rb'))
+scaler = pk.load(open('Loan-Prediction-App/models/scaler.pkl','rb'))
 
 st.header('Loan Predcition App')
 
