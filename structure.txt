@@ -2,11 +2,10 @@ Loan-Approval-Prediction/
 ├── src/                      # Source code for the project
 │   ├── __init__.py           # Initialize src as a Python package (if needed)
 │   ├── app.py                # Streamlit application script for deployment
-│
-├── data/                     # Data files used for the project
-│   ├── loan_approval_dataset.csv # CSV file containing the loan approval dataset
 │   └── loan_prediction.ipynb # Jupyter notebook for model development and prediction
-│
+├── data/                     # Data files used for the project
+│   └── loan_approval_dataset.csv # CSV file containing the loan approval dataset
+│   
 ├── models/                   # Machine learning models and related files
 │   ├── decision_tree_model.pkl # Pickled decision tree model
 │   └── scaler.pkl              # Pickle file for the scaler used in preprocessing
